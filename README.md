@@ -69,47 +69,20 @@ EFI
         │      
         ├─Kexts
         │  ├─ACPIBatteryManager.kext
-        │  │  └─Contents
-        │  │      │  Info.plist
-        │  │      │  
-        │  │      └─MacOS
-        │  │              ACPIBatteryManager
         │  │              
         │  ├─AirportItlwm.kext
-        │  │  └─Contents
-        │  │      │  Info.plist
-        │  │      │  
-        │  │      └─MacOS
-        │  │              AirportItlwm
         │  │              
         │  ├─AppleALC.kext
-        │  │  └─Contents
-        │  │      │  Info.plist
-        │  │      │  
-        │  │      └─MacOS
-        │  │              AppleALC
         │  │              
         │  ├─ApplePS2SmartTouchPad.kext
-        │  │  └─Contents
-        │  │      │  Info.plist
         │  │      │  
         │  │      ├─MacOS
         │  │      │      ApplePS2SmartTouchPad
         │  │      │      
         │  │      ├─PlugIns
         │  │      │  ├─ApplePS2Controller.kext
-        │  │      │  │  └─Contents
-        │  │      │  │      │  Info.plist
-        │  │      │  │      │  
-        │  │      │  │      └─MacOS
-        │  │      │  │              ApplePS2Controller
         │  │      │  │              
         │  │      │  └─ApplePS2Keyboard.kext
-        │  │      │      └─Contents
-        │  │      │          │  Info.plist
-        │  │      │          │  
-        │  │      │          └─MacOS
-        │  │      │                  ApplePS2Keyboard
         │  │      │                  
         │  │      └─Resources
         │  │          ├─Features Documentation.rtfd
@@ -288,124 +261,36 @@ EFI
         │  │                  TXT.rtf
         │  │                  
         │  ├─CtlnaAHCIPort.kext
-        │  │  └─Contents
-        │  │      │  Info.plist
-        │  │      │  version.plist
-        │  │      │  
-        │  │      ├─MacOS
-        │  │      │      CtlnaAHCIPort
-        │  │      │      
-        │  │      └─_CodeSignature
-        │  │              CodeResources
         │  │              
         │  ├─HibernationFixup.kext
-        │  │  └─Contents
-        │  │      │  Info.plist
-        │  │      │  
-        │  │      └─MacOS
-        │  │              HibernationFixup
         │  │              
         │  ├─IntelBluetoothFirmware.kext
-        │  │  └─Contents
-        │  │      │  Info.plist
-        │  │      │  
-        │  │      └─MacOS
-        │  │              IntelBluetoothFirmware
         │  │              
         │  ├─IntelBluetoothInjector.kext
-        │  │  └─Contents
-        │  │      │  Info.plist
-        │  │      │  
-        │  │      └─MacOS
-        │  │              IntelBluetoothInjector
         │  │              
         │  ├─IOElectrify.kext
-        │  │  └─Contents
-        │  │      │  Info.plist
-        │  │      │  
-        │  │      └─MacOS
-        │  │              IOElectrify
         │  │              
         │  ├─Lilu.kext
-        │  │  └─Contents
-        │  │      │  Info.plist
-        │  │      │  
-        │  │      └─MacOS
-        │  │              Lilu
         │  │              
         │  ├─NVMeFix.kext
-        │  │  └─Contents
-        │  │      │  Info.plist
-        │  │      │  
-        │  │      └─MacOS
-        │  │              NVMeFix
         │  │              
         │  ├─RealtekRTL8111.kext
-        │  │  └─Contents
-        │  │      │  Info.plist
-        │  │      │  
-        │  │      ├─MacOS
-        │  │      │      RealtekRTL8111
-        │  │      │      
-        │  │      └─Resources
-        │  │          └─en.lproj
-        │  │                  InfoPlist.strings
         │  │                  
         │  ├─SMCBatteryManager.kext
-        │  │  └─Contents
-        │  │      │  Info.plist
-        │  │      │  
-        │  │      ├─MacOS
-        │  │      │      SMCBatteryManager
-        │  │      │      
-        │  │      └─Resources
-        │  │              SSDT-BATC.dsl
         │  │              
         │  ├─SMCDellSensors.kext
-        │  │  └─Contents
-        │  │      │  Info.plist
-        │  │      │  
-        │  │      └─MacOS
-        │  │              SMCDellSensors
         │  │              
         │  ├─SMCLightSensor.kext
-        │  │  └─Contents
-        │  │      │  Info.plist
-        │  │      │  
-        │  │      └─MacOS
-        │  │              SMCLightSensor
         │  │              
         │  ├─SMCProcessor.kext
-        │  │  └─Contents
-        │  │      │  Info.plist
-        │  │      │  
-        │  │      └─MacOS
-        │  │              SMCProcessor
         │  │              
         │  ├─SMCSuperIO.kext
-        │  │  └─Contents
-        │  │      │  Info.plist
-        │  │      │  
-        │  │      └─MacOS
-        │  │              SMCSuperIO
         │  │              
         │  ├─USBPorts.kext
-        │  │  └─Contents
-        │  │          Info.plist
         │  │          
         │  ├─VirtualSMC.kext
-        │  │  └─Contents
-        │  │      │  Info.plist
-        │  │      │  
-        │  │      └─MacOS
-        │  │              VirtualSMC
         │  │              
         │  └─WhateverGreen.kext
-        │      └─Contents
-        │          │  Info.plist
-        │          │  
-        │          └─MacOS
-        │                  WhateverGreen
         │                  
         ├─Resources
         │  ├─Font
