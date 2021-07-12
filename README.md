@@ -1,11 +1,15 @@
 **Hackintosh for OMEN-HP-Laptop-15-dc0xxx**
 
->HP OMEN Laptop 15-dc0xxx Hackintosh OpenCore EFI
+>I am not the maintainer and author of this EFI in the full sense, I just made some changes during the testing process on my machine, it is insignificant, thanks to the hard work of the original author, you can see the original author link in the README page
+
+**HP OMEN Laptop 15-dc0xxx Hackintosh OpenCore EFI**
 
 - Original Author: MooreHarris
 - Original Link: See on [PC Beta](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1832126)
 - Repair Big Sur To Work by [DejavuMoe](https://www.dejavu.moe)
 - License: [MIT](https://github.com/Spoience/Hackintosh-OMEN-HP-Laptop-15-dc0xxx/blob/master/LICENSE)
+
+> 🤔 The code repository can be a bit messy, so it is recommended that you consume the [released version](https://github.com/DejavuMoe/Hackintosh-OMEN-HP-Laptop-15-dc0xxx/releases) directly.
 
 **Configuration information**
 
