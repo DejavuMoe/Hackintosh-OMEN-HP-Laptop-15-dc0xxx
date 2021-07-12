@@ -36,6 +36,17 @@
 - System Image Writing Tool：[balenaEtcher](https://www.balena.io/etcher/)
 - OpenCore Version: v0.7.0
 
+**ScreenShots**
+
+![](https://github.com/DejavuMoe/Hackintosh-OMEN-HP-Laptop-15-dc0xxx/blob/master/screenshots/1.png)
+
+![](https://github.com/DejavuMoe/Hackintosh-OMEN-HP-Laptop-15-dc0xxx/blob/master/screenshots/2.png)
+
+![](https://github.com/DejavuMoe/Hackintosh-OMEN-HP-Laptop-15-dc0xxx/blob/master/screenshots/3.png)
+
+![](https://github.com/DejavuMoe/Hackintosh-OMEN-HP-Laptop-15-dc0xxx/blob/master/screenshots/4.png)
+
+![](https://github.com/DejavuMoe/Hackintosh-OMEN-HP-Laptop-15-dc0xxx/blob/master/screenshots/5.png)
 
 **File Directory Tree**
 
