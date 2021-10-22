@@ -2,12 +2,22 @@
 
 >I am not the maintainer and author of this EFI in the full sense, I just made some changes during the testing process on my machine, it is insignificant, thanks to the hard work of the original author, you can see the original author link in the README page
 
+**❤The EFI contributor has open sourced his EFI in his GitHub Repo,you can access at the repository link below:**
+
+https://github.com/sunmousn/OMEN-by-HP-Laptop-15-dc0xxx
+
+---
+
+I have returned to the Windows operating system and no longer use hackintosh. If the economic conditions are better in the future, I will consider buying Apple’s MacBook Pro 16，That will get the best experience!
+
+**This repository is now archived**
+
 **HP OMEN Laptop 15-dc0xxx Hackintosh OpenCore EFI**
 
 - Original Author: MooreHarris
 - Original Link: See on [PC Beta](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1832126)
 - Repair Big Sur To Work by [DejavuMoe](https://www.dejavu.moe)
-- License: [MIT](https://github.com/Spoience/Hackintosh-OMEN-HP-Laptop-15-dc0xxx/blob/master/LICENSE)
+- License: [MIT](https://github.com/DejavuMoe/Hackintosh-OMEN-HP-Laptop-15-dc0xxx/blob/master/LICENSE)
 
 > 🤔 The code repository can be a bit messy, so it is recommended that you consume the [released version](https://github.com/DejavuMoe/Hackintosh-OMEN-HP-Laptop-15-dc0xxx/releases) directly.
 
